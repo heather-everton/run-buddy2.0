@@ -13,4 +13,6 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by [your name]
 
+change to readme in github
+
 ### ©️2019 Run Buddy, Inc 
