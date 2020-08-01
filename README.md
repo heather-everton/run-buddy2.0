@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Heather Everton
 
-local changes on develop branch
+change to readme in github
